@@ -170,5 +170,8 @@
 .tag1{
     display: flex;
 }
+.card{
+    background-color: whitesmoke;
+}
 
     
