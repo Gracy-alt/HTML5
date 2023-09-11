@@ -1,0 +1,174 @@
+*{
+    font-family: nunito;
+}
+
+.navbar{
+    background-color: #fff !important;
+}
+
+.header-fixed{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    box-shadow: 0px 3px 12px 0px rgba(0, 0, 0, 0.75);
+    z-index: 999999;
+}
+
+.navbar-brand{
+    font-weight:700;
+    color: #a0041e;
+}
+
+.nav-link{
+    font-weight: 700;
+}
+
+.cta{
+    border: 2px solid #a0041e;
+    border-radius: 4px;
+    text-transform: uppercase;
+    padding: 10px 15px !important;
+}
+
+.cta:hover{
+    background-color: #a0041e;
+    color: #eee;
+}
+
+.banner{
+    min-height: 500px;
+    margin-top: 70px;
+    background-image: url(../images/bg.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.overlay{
+    background-color: rgba(255, 255, 255, 0.95);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top:0;
+    left: 0;
+    z-index: 45;
+}
+
+.banner-content{
+    position: relative;
+    z-index: 60;
+}
+
+.active{
+    color: #a0041e !important;
+}
+
+.banner-padding{
+    padding: 12% 5%;    
+}
+
+.box{
+    background-color: #eee7e7;
+}
+.conts{
+    border: 2px solid #787474;
+    border-radius: 4px;
+    text-transform: uppercase;
+    padding: 10px 15px !important;
+    background-color: #ec224a;
+    font-weight: 600;
+}
+.Num{
+    color: #a0041e;
+    font-weight: 700;
+}
+.Nums{
+    font-weight: 300;
+}
+.banner2{
+    min-height: 500px;
+    margin-top: 70px;
+    background-image: url(../images/b1.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+}
+.overlay2{
+    background-color: rgb(150, 141, 141);
+     
+}
+.contsa{
+    color: #a0041e;
+}
+.contsc{
+    background-color: red;
+    border-radius: 4px;
+        
+
+}
+.contsb{
+    border-radius: 4px;
+    color: #a0041e;
+    background-color: #eacacf;
+    width: 80px;
+}
+.contse{
+    color: rgb(3, 94, 64);
+    background-color: rgb(205, 227, 247);
+    border-radius: 4px;
+    font-weight: 400;
+}
+.container2{
+    background-color: rgb(238,231,231);
+}
+.imagea{
+    background-image: url(../images/b1.jpg);
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+}
+.Jan , .Apr , .Jun {
+    background-color: #a0041e;
+    padding: 5px;
+    float: right;
+}
+.imageb{
+    background-image: url(../images/b7.jpg);
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+}
+.imagec{
+    background-image: url(../images/b3.jpg);
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+}
+.containerD{
+    background-color: #eacacf;
+}
+.A{
+    background-color: white;
+    min-height: 40px;
+    text-align: start;
+}
+.team{
+    height: 80px;
+
+}
+.brandc{
+    font-weight: 600;
+}
+.ul-adjust{
+    background-color: #d81838;
+    height: 2px;
+    width: 30%;
+    list-style: none;
+}
+.tag1{
+    display: flex;
+}
+
+    
